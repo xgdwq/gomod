@@ -1,5 +1,5 @@
 package gomod
 
 func Hello() string {
-	return "Hello World!"
+	return "v2: Hello World!"
 }
