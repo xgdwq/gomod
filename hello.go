@@ -7,3 +7,7 @@ func Hello() string {
 func HelloV3() string {
 	return "v3.HelloV3: Hello World!"
 }
+
+func HelloV4() string {
+	return "v4.HelloV4: Hello World!"
+}
