@@ -11,3 +11,7 @@ func HelloV3() string {
 func HelloV4() string {
 	return "v4.HelloV4: Hello World!"
 }
+
+func HelloV5() string {
+	return "v5.HelloV5: Hello World!"
+}
