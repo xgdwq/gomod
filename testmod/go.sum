@@ -1,0 +1,10 @@
+github.com/xgdwq/gomod v0.0.0-20191128081618-810c2bceff93 h1:wgi32XFiEHYOZnszRD/YFf7Am5gb2GI6fEWbw7I1gRA=
+github.com/xgdwq/gomod v0.0.0-20191128081618-810c2bceff93/go.mod h1:izsWjugQPQA63GhWT1WoWQewE9HAov3ssFZvKBYDsWc=
+github.com/xgdwq/gomod v0.0.0-20191128082138-4937863d6b0e h1:zJ7sZWZ6hjrCelAzFVHxDd6CnHMB6hweYYacUBQZT/8=
+github.com/xgdwq/gomod v0.0.0-20191128082138-4937863d6b0e/go.mod h1:izsWjugQPQA63GhWT1WoWQewE9HAov3ssFZvKBYDsWc=
+github.com/xgdwq/gomod/v3 v3.0.0 h1:VqWEojRjkLO8EWAF/YhiQ/PYo8LcBxCRX1UnPcQiQOQ=
+github.com/xgdwq/gomod/v3 v3.0.0/go.mod h1:40WWbheHBTyE1pQ8bprdD91oLblC7tazkK5rNq6MRVc=
+github.com/xgdwq/gomod/v4 v4.0.0 h1:O47i9ViMrmFy2KzawQw+a+xhP2iBhztPFyQLtGqkc9I=
+github.com/xgdwq/gomod/v4 v4.0.0/go.mod h1:oAd29TyZ/20u94GOF6F6GftrZS6qLeDaRmUi6W48fW4=
+github.com/xgdwq/gomod/v5 v5.0.0 h1:qdtebZJFx+ddo1jmy0YyOax4Hq/jIEAnK4nlFWijPlQ=
+github.com/xgdwq/gomod/v5 v5.0.0/go.mod h1:ziDl6ENNieW//nes5ynRl7qUe4KxpkfliDRZ7JHVG1w=
